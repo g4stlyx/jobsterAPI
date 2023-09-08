@@ -6,7 +6,7 @@ You can use the demo account to explore the project if you don't want to registe
 
 <h3><a href="https://jobster-api-1yfd.onrender.com/">demo link</a></h3>
 
-#### Setup
+### <h2>Setup </h2>
 
 1. Setup .env in the root <br>
 2. Add MONGO_URI with correct value <br>
