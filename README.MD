@@ -4,14 +4,14 @@ A full-stack project that contains register,login, and CRUD functionality. <br>
 You can create, read, update and delete jobs after you successfully logged in, also you can see the last 12 months stats in "stats" page. <br>
 You can use the demo account to explore the project if you don't want to register, but test user is limited to read-only actions.
 
-<a href="https://jobster-api-1yfd.onrender.com/">demo link</a> <br>
+<a href="https://jobster-api-1yfd.onrender.com/"><h3>demo link</h3></a> <br>
 
 #### Setup
 
 1. Setup .env in the root <br>
 2. Add MONGO_URI with correct value <br>
 3. Add JWT_SECRET as your resolving key(e.g thisIsASecretKey) and JWT_LIFETIME as the expire time of the token (e.g 1d,30d) <br>
-4. navigate to the root directory (which contains "package.json"), and run the command below
+4. navigate to the root directory (which contains "package.json"), and run the command below <br>
 
 ```bash
 npm install && npm start
