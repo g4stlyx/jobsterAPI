@@ -4,7 +4,7 @@ A full-stack project that contains register,login, and CRUD functionality. <br>
 You can create, read, update and delete jobs after you successfully logged in, also you can see the last 12 months stats in "stats" page. <br>
 You can use the demo account to explore the project if you don't want to register, but test user is limited to read-only actions.
 
-<h3><a href="https://jobster-api-1yfd.onrender.com/">demo link</a></h3> <br>
+<h3><a href="https://jobster-api-1yfd.onrender.com/">demo link</a></h3>
 
 #### Setup
 
